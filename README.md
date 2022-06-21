@@ -135,7 +135,7 @@
 
 
 ```console
-Zaid@Windows~ $ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
+Zaid@Windows~ $ git clone https://github.com/jpriyanshu772/Zaid-Vc-Player
 Zaid@Windows~ $ cd Zaid-Vc-Player
 Zaid@Windows~ $ bash setup
 Zaid@Windows~ $ cp sample.env .env
